@@ -1,9 +1,9 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: eoe 上海同城会
+email: shanghai@eoe.cn
+description: "eoe 上海同城会官方博客"
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://shanghai.eoe.cn"
 
 # Build settings
 markdown: kramdown
