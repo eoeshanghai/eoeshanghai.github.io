@@ -1,10 +1,10 @@
 # Site settings
 title: eoe 上海同城会
 email: shanghai@eoe.cn
-description: "eoe 上海同城会官方博客"
+description: "上海地区的版主们热烈讨论并建议组建 eoe 线下组织，最后由 eoe 创始人之一「Ice」拍板，eoe 超级版主「Kris」牵头，在其他两位版主「Future Xiong」和「River」的大力帮助下成立 「eoe 上海同城会(eoeShanghai)」，此为大陆地区第一个 eoe 线下同城会。"
 baseurl: ""
 url: "http://shanghai.eoe.cn"
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:year/:month/:day/:title
