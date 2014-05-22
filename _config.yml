@@ -2,7 +2,7 @@
 title: eoe 上海同城会
 email: shanghai@eoe.cn
 description: "eoe 第一个线下官方同城会 - 上海同城会"
-baseurl: ""
+baseurl: "http://shanghai.eoe.cn"
 url: "http://shanghai.eoe.cn"
 
 # Build settings
@@ -11,3 +11,5 @@ permalink: /:year/:month/:day/:title
 
 # Account
 username: eoeshanghai
+
+feed: "http://feeds.feedburner.com/eoeshanghai"
