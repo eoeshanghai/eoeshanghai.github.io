@@ -8,3 +8,6 @@ url: "http://shanghai.eoe.cn"
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title
+
+# Account
+username: eoeshanghai
