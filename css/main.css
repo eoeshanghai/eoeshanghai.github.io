@@ -222,6 +222,10 @@ a:visited { color: #205caa; }
   margin: 30px 0;
 }
 
+.post-content img {
+	max-width:90%;
+}
+
 .post-content ul,
 .post-content ol { padding-left: 20px; }
 
