@@ -13,3 +13,9 @@ permalink: /:year/:month/:day/:title
 username: eoeshanghai
 
 feedurl: "http://feeds.feedburner.com/eoeshanghai"
+
+# 添加多说评论
+comments :
+  provider : duoshuo
+  duoshuo :
+    short_name : eoeshanghai
